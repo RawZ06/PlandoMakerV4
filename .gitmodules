@@ -1,0 +1,6 @@
+[submodule "PlandoMakerV4-front"]
+	path = PlandoMakerV4-front
+	url = https://github.com/RawZ06/PlandoMakerV4-front.git
+[submodule "PlandoMakerV4-back"]
+	path = PlandoMakerV4-back
+	url = https://github.com/RawZ06/PlandoMakerV4-back.git
